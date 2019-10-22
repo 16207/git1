@@ -1,3 +1,3 @@
 I'm ray zhao.
-Git is a free software.
+Is it hard to learn git?
 Git is easy to learn.
