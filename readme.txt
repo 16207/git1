@@ -4,3 +4,4 @@ Git is easy to learn.
 I've got lots of homework to do.
 I have no time.
 Git tracks changes of files.
+Git do lots of things.
