@@ -6,5 +6,5 @@ I have no time.
 Git tracks changes of files.
 Git do lots of things.
 What's the matter?
-Create a branch is quick.
-yeah.
+Create a branch is quick and easy.
+
